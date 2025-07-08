@@ -55,7 +55,7 @@ Next Steps
 
 Get in Touch
 
-Email: hello@elevatecraft.org  
+Email: davidandersone1@outlook.com  
 LinkedIn: linkedin.com/in/david-anderson  
 Twitter: @ElevateCraft  
 
