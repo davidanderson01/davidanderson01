@@ -63,11 +63,3 @@ Looking forward to collaborating and shaping the future—side by side.
 `
 
 ---
-
-Beyond the README, you might consider:
-
-- Setting up GitHub Topics to tag each initiative  
-- Creating a Project board for your MVP roadmap  
-- Organizing repos by service domain (e.g., app-dev, fashion-ecom, community-tools)  
-
-Happy to dive deeper into any of these steps!
