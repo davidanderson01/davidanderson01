@@ -1,5 +1,3 @@
-`markdown
-
 David Anderson
 
 Aspiring Technologist | Entrepreneur | Community Advocate
